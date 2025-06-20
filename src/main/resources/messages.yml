@@ -1,0 +1,48 @@
+general:
+  not-enabled: "<red>This feature has not been enabled."
+
+pharaohs-prism:
+  on-absorb: "Pharaoh’s Prism has absorbed two hits and is ready to strike!"
+  on-right-click: "You are now absorbing damage from %player%."
+  on-hit: "You released %damage% damage onto %target%!"
+
+paralyze:
+  already-queued-to-paralyze: "<red>You have already executed /ability2, please right click a player to paralyze them!"
+  paralyzed-victim: "<green>You have paralyzed %victim%!"
+  player-got-paralyzed: "<red>You have been paralyzed, you cannot attack, switch hot bar"
+  queued-to-paralyze: "<green>You have enabled the second ability, please right click a player to paralyze them!"
+  not-a-player: "<red>You can only paralyze players!"
+  on-cooldown: "<red>You cannot paralyze players, you are on cooldown! (%duration%s/%total%s)"
+
+omen-staff:
+  on-cooldown: "<red>You cannot activate fangs or summon raid mobs, you are on cooldown! (%duration%s/%total%s)"
+
+wind-orb:
+  on-cooldown: "<red>You cannot use the wind orb, you are on cooldown! (%duration%s/%total%s)"
+
+soul:
+  on-cooldown: "<red>You cannot use the soul, you are on cooldown! (%duration%s/%total%s)"
+
+diffuser:
+  attacker-diffused: "<green>You have diffused %victim% for %time% seconds!"
+  victim-got-diffused: "<red>You have been diffused by %attacker% for %time% seconds!"
+  victim-is-diffused: "<red>You cannot use this, you are diffused!"
+
+  victim-already-diffused: "<red>%victim% has been already diffused."
+
+  victim-no-longer-diffused-attacker: "<red>%victim% has no longer been diffused."
+  victim-no-longer-diffused-victim: "<green>You are no longer diffused."
+
+  on-cooldown: "<red>You cannot diffuse a player, you are on cooldown! (%duration%s/%total%s)"
+
+chargeable-mace:
+  full: "<green>You have charged your mace with %amount%, you now have %total-charges%!"
+  partial: "<green>You have charged your mace with %amount%, but %remainder% was not added as the Mace has reached it's maximum of %max-wind-charges%"
+  none: "<red>No wind charges were added, you have %max-wind-charges%"
+
+ground-slam:
+  cannot-use-on-ground: "<red>You cannot use this on the ground!"
+  on-cooldown: "<red>You cannot slam the ground, you are on cooldown! (%duration%s/%total%)s"
+  activated: "<green>You have activated the ground slam, jump off a block into the air to activate."
+
+config-version: 1

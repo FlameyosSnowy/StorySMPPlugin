@@ -1,0 +1,74 @@
+shuriken:
+  trailing-effect-particle: crit
+
+dragons-breath:
+  enabled: true
+
+  cooldown: 120
+
+soul:
+  enabled: true
+
+  cooldown: 90
+
+paralyze:
+  enabled: true
+
+  duration: 5
+
+  cooldown: 30
+
+dragons-chestplate:
+  enabled: true
+
+pharaohs-prism:
+  enabled: true
+
+  absorb-hits: 2
+
+diffuser:
+  enabled: true
+
+  cooldown: 120
+
+  duration: 90
+
+omen-staff:
+  enabled: true
+
+  cooldown: 30
+
+  sneaking:
+    radius: 5
+    damage: 6.0
+
+  standing:
+    distance: 10
+
+ground-slam:
+  enabled: true
+
+  multiply-fall-speed: 3.0
+
+  damage-for-each-five-blocks-fallen: 3.0
+
+  minimum-fall-distance: 5
+
+  cooldown: 90
+
+wind-orb:
+  enabled: true
+
+  cooldown: 20
+
+poseidons-trident:
+  enabled: true
+
+  cooldown: 90
+
+chargeable-mace:
+  enabled: true
+
+  max-charges: 128
+
+config-version: 1

@@ -1,0 +1,5 @@
+name: StorySMPPlugin
+main: me.flame.storysmp.StorySMPPlugin
+version: 1.0.0
+author: fqmy
+api-version: "1.21"
